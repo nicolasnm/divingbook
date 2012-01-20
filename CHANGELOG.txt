@@ -1,5 +1,4 @@
-
-Drupal 7.8, 2011-08-31
+Drupal 7.8, 2011-08-31 2
 ----------------------
 - Fixed critical upgrade path issue with multilingual sites, leading to lost
   content.
