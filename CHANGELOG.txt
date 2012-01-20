@@ -3,7 +3,7 @@ Drupal 7.8, 2011-08-31 2
 - Fixed critical upgrade path issue with multilingual sites, leading to lost
   content.
 - Numerous fixes to upgrade path, preventing fatal errors due to incorrect
-  dependencies.
+  dependencies.s
 - Fixed issue with saving files on hosts with open_basedir restrictions.
 - Fixed Update manger error when used with Overlay.
 - Fixed RTL support in Seven administration theme and Overlay.
